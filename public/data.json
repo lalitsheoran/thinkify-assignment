@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Fight Club",
+        "rating": "8.8/10",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51pdeA5sipL._SY300_QL70_ML2_.jpg",
+        "id": "5s8c9w",
+        "language":"English",
+        "genre": "Drama",
+        "theatres": [
+          {
+            "name": "Satyam Cinemas",
+            "location": "Bangalore",
+            "id": "fbga6c8d"
+          },
+          {
+            "name": "Shivam Cinemas",
+            "location": "Bangalore",
+            "id": "fd5a6c8d"
+          },
+          {
+            "name": "Sundaram Cinemas",
+            "location": "Mangalore",
+            "id": "fb0a6c8d"
+          }
+        ]
+      },
+      {
+        "name": "Annihilation",
+        "rating": "6.9/10",
+        "image": "https://i.ebayimg.com/images/g/dPMAAOSwJdBbHKCX/s-l300.jpg",
+        "id": "22sd5c",
+        "language":"Hindi",
+        "genre": "Horror",
+        "theatres": [
+          {
+            "name": "Satyam Cinemas",
+            "location": "Bangalore",
+            "id": "fbga6c8d"
+          },
+          {
+            "name": "Maxx Cinemas",
+            "location": "Chennai",
+            "id": "fd55tc8d"
+          },
+          {
+            "name": "Sundaram Cinemas",
+            "location": "Mangalore",
+            "id": "fb0a6c8d"
+          }
+        ]
+      },
+      {
+        "name": "Sergio",
+        "rating": "6.7/10",
+        "image": "https://i.ebayimg.com/images/g/pqwAAOSw6IJeSJx~/s-l300.jpg",
+        "id": "27ud5c",
+        "language":"English",
+        "genre": "Drama",
+        "theatres": [
+          {
+            "name": "Big Cinemas",
+            "location": "Bangalore",
+            "id": "fbba6c8d"
+          },
+          {
+            "name": "Maxx Cinemas",
+            "location": "Chennai",
+            "id": "fd55tc8d"
+          },
+          {
+            "name": "Sundaram Cinemas",
+            "location": "Mangalore",
+            "id": "fb0a6c8d"
+          }
+        ]
+      },
+      {
+        "name": "Little Boy",
+        "rating": "7.4/10",
+        "image": "https://www.filmjabber.com/posters/5257-movie-poster.jpg",
+        "id": "56jd5c",
+        "language":"Hindi",
+        "genre": "History",
+        "theatres": [
+          {
+            "name": "Maxx Cinemas",
+            "location": "Chennai",
+            "id": "fd55tc8d"
+          },
+          {
+            "name": "Sundaram Cinemas",
+            "location": "Mangalore",
+            "id": "fb0a6c8d"
+          }
+        ]
+      },
+      {
+        "name": "8 Mile",
+        "rating": "7.1/10",
+        "image": "https://img.moviepostershop.com/8-mile-movie-poster-2002-1010475989.jpg",
+        "id": "5c8d5c",
+        "language":"English",
+        "genre": "Drama",
+        "theatres": [
+          {
+            "name": "Big Cinemas",
+            "location": "Bangalore",
+            "id": "fbba6c8d"
+          },
+          {
+            "name": "Maxx Cinemas",
+            "location": "Chennai",
+            "id": "fd55tc8d"
+          }
+        ]
+      },
+      {
+        "name": "The Broken",
+        "rating": "5.9/10",
+        "image": "https://getfluid.com/wp-content/uploads/2017/10/9-683x1024-200x300.jpg",
+        "id": "f9v8g1",
+        "language":"English",
+        "genre": "Horror",
+        "theatres": [
+          {
+            "name": "Big Cinemas",
+            "location": "Bangalore",
+            "id": "fbba6c8d"
+          },
+          {
+            "name": "Maxx Cinemas",
+            "location": "Chennai",
+            "id": "fd55tc8d"
+          },
+          {
+            "name": "Sundaram Cinemas",
+            "location": "Mangalore",
+            "id": "fb0a6c8d"
+          },
+          {
+            "name": "PVR Cinemas",
+            "location": "Chennai",
+            "id": "yh756c8d"
+          }
+        ]
+      }
+]

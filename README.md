@@ -9,6 +9,9 @@ Skip through payment process but ensure the final screen has the details of the 
 
 All required features along with some additional features implemented.
 
+## Hosted on Netlify with Continous Integration :
+https://movie-ticket.netlify.com
+
 
 
 ### `npm start`

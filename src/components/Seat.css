@@ -1,0 +1,7 @@
+.seats {
+  color: red;
+}
+.seats:hover {
+  scale: 1.25;
+  color: blue;
+}

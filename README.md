@@ -9,6 +9,13 @@ Skip through payment process but ensure the final screen has the details of the 
 
 All required features along with some additional features implemented.
 
+Login/Register ✅
+Data Persist via LocalStorage ✅
+Filtering by genre,language, user location ✅
+Option to cancel booking on final screen ✅
+Option to all view bookings at one place ✅
+Routes protected ✅
+
 ## Hosted on Netlify with Continous Integration :
 https://movie-ticket.netlify.com
 

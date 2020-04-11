@@ -6,6 +6,8 @@ import MovieList from './components/MovieList'
 import ChooseTheatre from './components/ChooseTheatre'
 import ChooseSeats from './components/ChooseSeats'
 import BookingSuccess from './components/BookingSuccess'
+import MyBookings from './components/MyBookings'
+import NotFound from './components/NotFound'
 
 export default class Routes extends React.Component{
     render(){
@@ -18,7 +20,8 @@ export default class Routes extends React.Component{
                 <Route exact path="/book:id" render={(props)=><ChooseTheatre {...props}/>}/>
                 <Route exact path="/chooseseats:id" render={(props)=><ChooseSeats {...props}/>}/>
                 <Route exact path="/confirmeddetails" render={(props)=><BookingSuccess {...props}/>}/>
-
+                <Route exact path="/mybookings" render={()=><MyBookings/>}/>
+                <Route render={()=><NotFound />} />
 
             </Switch>
             </>
